@@ -1,0 +1,5 @@
+env/
+db.*
+.idea/
+__pycache__/
+migrations/
